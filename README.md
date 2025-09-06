@@ -1,4 +1,4 @@
-# �� Hello, I'm Rıza
+# 👋 Hello, I'm Rıza
 
 I hold a bachelor's degree in Statistics and an MSc in Data Science. I am passionate about data science, machine learning, and artificial intelligence. A lifelong learner, I am highly motivated to continuously develop my skills. Please feel free to reach out if you have any questions.
 
