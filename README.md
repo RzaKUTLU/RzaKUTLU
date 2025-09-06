@@ -30,4 +30,5 @@ I hold a bachelor's degree in Statistics and an MSc in Data Science. I am passio
 
 
 - 💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/r%C4%B1zakutlu)
+- **Medium**: [Read my articles](https://medium.com/@rza.kutluu)
 
