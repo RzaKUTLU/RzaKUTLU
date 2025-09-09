@@ -10,7 +10,7 @@ I hold a bachelor's degree in Statistics and an MSc in Data Science. I am passio
 
 ## 🎓 Education & Certifications
 
-- **�� Education**: [View my educational background](https://www.linkedin.com/in/r%C4%B1zakutlu/details/education/)
+- **🏫 Education**: [View my educational background](https://www.linkedin.com/in/r%C4%B1zakutlu/details/education/)
 - **🏆 Certifications**: [View my certifications](https://www.linkedin.com/in/r%C4%B1zakutlu/details/certifications/)
 
 
